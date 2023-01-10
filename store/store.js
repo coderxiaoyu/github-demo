@@ -1,0 +1,1 @@
+console.log("store状态管理");
